@@ -1,9 +1,6 @@
 ## Hey there! Welcome to my GitHub profile 😊👋
 
-<!--
-**behzadkahaki/behzadkahaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 Hi there! I'm Behzad, a front-end developer
 - 🌱What truly motivates me is the challenge and uniqueness of each day in development. I thrive on solving complex problems in the simplest way possible and continuously seek to learn and improve.
