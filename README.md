@@ -13,24 +13,26 @@
 📌 <b>Fun fact: For me, design isn't just a job—it's an art and a science. Every day, I find motivation and energy by striving to discover the best solutions and make informed decisions.</b>
 
 <br><br>
+
+
 <h3>🔴Connect with me :</h3>
 <hr>
-
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/behzad-kahaki-29a00a247/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40"/>
   </a>
   <a href="https://t.me/Bhzdkhki" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-</a>
-  <a href="behzadkahaki@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-</a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="40"/>
+  </a>
+  <a href="mailto:behzadkahaki@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" height="40"/>
+  </a>
 </p>
+
+
 
 <h3>🔴 Technologies I Use :</h3>
 <hr>
-
 <p>
   <a href="https://www.w3.org/TR/css/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="40"/>
@@ -57,17 +59,3 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" height="40"/>
   </a>
 </p>
-## Connect with me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/behzad-kahaki-29a00a247/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40"/>
-  </a>
-  <a href="https://t.me/Bhzdkhki" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="40"/>
-  </a>
-  <a href="mailto:behzadkahaki@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" height="40"/>
-  </a>
-</p>
-
