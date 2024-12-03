@@ -13,7 +13,7 @@
 
 📌 <b>Fun fact: For me, design isn't just a job—it's an art and a science. Every day, I find motivation and energy by striving to discover the best solutions and make informed decisions.</b>
 
-
+<br>
 <p align="center">
   <a href="https://www.linkedin.com/in/behzad-kahaki-29a00a247/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
