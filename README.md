@@ -56,4 +56,5 @@
   <a href="https://sass-lang.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" height="40"/>
   </a>
+  <span style="display:inline-block; width: 20px;"></span> <a href="https://jquery.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" height="40" /> </a>
 </p>
