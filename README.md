@@ -63,7 +63,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" height="40"/>
 </a>
 
-  <a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Mobile_first" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mobile-first/mobile-first-original.svg" alt="Mobile First Design" height="40"/>
-  </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Mobile_first" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/mobile-first.svg" alt="Mobile First Design" height="40"/>
+</a>
+
 </p>
