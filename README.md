@@ -54,7 +54,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" height="30"/>
   </a> 
   <a href="https://jquery.com/" target="_blank"> 
-    <img src="https://www.svgrepo.com/show/353940/jquery.svg" alt="jQuery" height="30" /> 
+    <img src="https://www.svgrepo.com/show/353940/jquery.svg" alt="jQuery" height="40" /> 
   </a>
   <a href="https://getbootstrap.com/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="30"/>
