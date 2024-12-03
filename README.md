@@ -4,7 +4,7 @@
 </div>
 
 <h3>About me👇</h3>
-<i class="fa-solid fa-user-secret"></i>
+
 
 
 📌 <b>I'm a front-end developer</b>
@@ -13,7 +13,7 @@
 📌 <b>Fun fact: For me, design isn't just a job—it's an art and a science. Every day, I find motivation and energy by striving to discover the best solutions and make informed decisions.</b>
 
 <br><br>
-<h3>🔴Connect with me :</h3> 
+<h3>🔴Connect with me :</h3> 
 
 <p>
   <a href="https://www.linkedin.com/in/behzad-kahaki-29a00a247/" target="_blank">
