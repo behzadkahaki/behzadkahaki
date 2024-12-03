@@ -17,14 +17,14 @@
 
 <h3>🔴Connect with me :</h3>
 <hr>
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/behzad-kahaki-29a00a247/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40"/>
   </a>
   <a href="https://t.me/Bhzdkhki" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="40"/>
   </a>
-  <a href="mailto:behzadkahaki@gmail.com" target="_blank">
+  <a href="behzadkahaki@gmail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" height="40"/>
   </a>
 </p>
