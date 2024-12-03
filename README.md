@@ -1,3 +1,23 @@
+
+<div align="center">
+  <h1><span id="typewriter"></span></h1>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/@typewriterjs/core@2.17.0/dist/core.js"></script>
+<script>
+  const app = document.getElementById('typewriter');
+  const typewriter = new Typewriter(app, {
+    loop: true,
+    delay: 75,
+  });
+
+  typewriter
+    .typeString('Welcome to my GitHub profile')
+    .pauseFor(2000)
+    .deleteAll()
+    .start();
+</script>
+
 ## Hey there! Welcome to my GitHub profile 😊👋
 
 
