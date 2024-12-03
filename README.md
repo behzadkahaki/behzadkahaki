@@ -29,9 +29,9 @@
 </p>
 
 <h3>🔴 Technologies I Use :</h3>
+<hr>
 
-
-<p align="center">
+<p>
   <a href="https://www.w3.org/TR/css/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="40"/>
   </a>
