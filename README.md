@@ -13,7 +13,7 @@
 📌 <b>Fun fact: For me, design isn't just a job—it's an art and a science. Every day, I find motivation and energy by striving to discover the best solutions and make informed decisions.</b>
 
 <br><br>
-<h3>🔴Connect with me :</h3> 
+<h3>🔴Connect with me :</h3>
 
 <p>
   <a href="https://www.linkedin.com/in/behzad-kahaki-29a00a247/" target="_blank">
@@ -30,6 +30,7 @@
 <h3>🔴 Technologies I Use :</h3>
 
 <p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"/>
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
