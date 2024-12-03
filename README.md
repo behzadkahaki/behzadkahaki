@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&duration=2000&pause=1000&color=da2c38&center=true&vCenter=true&width=600&height=100&lines=Hey+there!;Welcome+to+my+GitHub+page" alt="Welcome to my GitHub profile">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&duration=2000&pause=1000&color=da2c38&center=true&vCenter=true&width=600&height=100&lines=Hey+there!;I'm+Behzad;Welcome+to+my+GitHub+page" alt="Welcome to my GitHub profile">
 </div>
 
 
