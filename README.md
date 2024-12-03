@@ -16,7 +16,7 @@
 <h3>🔴Connect with me :</h3> 
 
 <p>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" target="_blank">
+  <a href=""https://www.linkedin.com/in/behzad-kahaki-29a00a247/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/Bhzdkhki" target="_blank">
