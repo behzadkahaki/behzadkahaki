@@ -14,6 +14,7 @@
 
 <br><br>
 <h3>🔴Connect with me :</h3>
+<hr>
 
 <p>
   <a href="https://www.linkedin.com/in/behzad-kahaki-29a00a247/" target="_blank">
@@ -29,7 +30,6 @@
 
 <h3>🔴 Technologies I Use :</h3>
 
-## Technologies I Use
 
 <p align="center">
   <a href="https://www.w3.org/TR/css/" target="_blank">
@@ -57,34 +57,3 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" height="40"/>
   </a>
 </p>
-
-
-## Technologies I Use 2
-
-<p align="center">
-  <a href="https://www.w3.org/TR/css/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/css3.svg" alt="CSS3" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg" alt="Git" height="40"/>
-  </a>
-  <a href="https://graphql.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/graphql.svg" alt="GraphQL" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg" alt="HTML5" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" alt="JavaScript" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" alt="React" height="40"/>
-  </a>
-  <a href="https://redux.js.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/redux.svg" alt="Redux" height="40"/>
-  </a>
-  <a href="https://sass-lang.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/sass.svg" alt="Sass" height="40"/>
-  </a>
-</p>
-
