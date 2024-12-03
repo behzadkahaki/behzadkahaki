@@ -30,7 +30,7 @@
 
 
 <h3>🔴 Technologies I Use :</h3>
-🔴<hr>
+<🔴hr>
 <p>
   <a href="https://www.w3.org/TR/css/" target="_blank">
     <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="CSS3" height="30"/>
