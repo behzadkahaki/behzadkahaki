@@ -33,7 +33,7 @@
 <hr>
 <p>
   <a href="https://www.w3.org/TR/css/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="40"/>
+    <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="CSS3" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="40"/>
@@ -54,17 +54,14 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" height="40"/>
   </a> 
   <a href="https://jquery.com/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" height="40" /> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" height="30" /> 
   </a>
   <a href="https://getbootstrap.com/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="40"/>
   </a> 
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" height="30"/>
 </a>
 
- <a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Mobile_first" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/mobile-first.svg" alt="Mobile First Design" height="40"/>
-</a>
 
 </p>
