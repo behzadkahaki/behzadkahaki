@@ -60,7 +60,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="40"/>
   </a> 
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" height="30"/>
+  <img src="https://www.svgrepo.com/show/452149/adobe-photoshop.svg" alt="Photoshop" height="30"/>
 </a>
 
 
