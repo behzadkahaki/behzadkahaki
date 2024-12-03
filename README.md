@@ -14,7 +14,7 @@
 📌 <b>Fun fact: For me, design isn't just a job—it's an art and a science. Every day, I find motivation and energy by striving to discover the best solutions and make informed decisions.</b>
 
 <br><br>
-<h2 font=Merriweather&weight=700&size=30&duration=2000&pause=1000&color=191970;>⚪Connect with me</h2>
+<h2 font="Merriweather">⚪Connect with me :</h2>
 
 <p>
   <a href="https://www.linkedin.com/in/behzad-kahaki-29a00a247/" target="_blank">
