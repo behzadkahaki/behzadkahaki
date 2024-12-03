@@ -14,7 +14,7 @@
 📌 <b>Fun fact: For me, design isn't just a job—it's an art and a science. Every day, I find motivation and energy by striving to discover the best solutions and make informed decisions.</b>
 
 <br><br>
-##🔴 Connect with me :
+<h2>🔴Connect with me :</h2> 
 
 <p>
   <a href="https://www.linkedin.com/in/behzad-kahaki-29a00a247/" target="_blank">
@@ -28,7 +28,7 @@
 </a>
 </p>
 
-##🔴 Technologies I Use
+<h2>🔴 Technologies I Use :</h2>
 
 <p>
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
