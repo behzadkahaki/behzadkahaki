@@ -7,8 +7,8 @@
 
 
 
-📌 <b>I'm a front-end developer</b>
- For me, design isn't just a job—it's an art and a science. Every day, I find motivation and energy by striving to discover the best solutions and make informed decisions.</b>
+📌 <b>I'm front-end developer</b>
+ For me, design isn't just a job—it's an art and science. Every day, I find motivation and energy by striving to discover the best solutions and make informed decisions.</b>
 
 <br><br>
 
